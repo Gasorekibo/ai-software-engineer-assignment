@@ -1,0 +1,19 @@
+{
+  "name": "ai-software-engineer-assignment",
+  "version": "1.0.0",
+  "description": "A TypeScript Assignment for an AI Software Engineer. This project includes an HTTP client implementation and a comprehensive test suite to validate its functionality.",
+  "main": "src/httpClient.ts",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "author": "Gasorekibo",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "5.9.3",
+    "vitest": "4.0.18"
+  }
+}
